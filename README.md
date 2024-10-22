@@ -1,6 +1,6 @@
 # Python Projects
 
-In this repository, I will be documenting all of the progress I make as I continue to learn and grow my Python programming skills.
+In this repository, I will post most of the progress I make as I continue to learn and grow my Python skills.
 
 For example:
 
